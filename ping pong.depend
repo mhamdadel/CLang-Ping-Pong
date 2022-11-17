@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1668141134 source:m:\c\ping pong\mylibrary.c
+	<windows.h>
+	<time.h>
+	<errno.h>
+	"mylibrary.h"
+
+1668141146 m:\c\ping pong\mylibrary.h
+	<windows.h>
+	<unistd.h>
+
+1668687792 source:m:\c\ping pong\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mylibrary.h"
+
